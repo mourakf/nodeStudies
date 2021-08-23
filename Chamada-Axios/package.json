@@ -1,0 +1,16 @@
+{
+  "name": "chamada-axios",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/services chamadaAxios.js",
+  "dependencies": {
+    "axios": "0.21.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node ./src/services/chamadaAxios.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
