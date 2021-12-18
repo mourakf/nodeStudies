@@ -25,3 +25,5 @@ new Promise((resolve, reject)
 4 - fullfiled
 5 - settled
 */
+
+module.exports = lerArquivo

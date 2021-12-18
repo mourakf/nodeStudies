@@ -1,0 +1,16 @@
+{
+  "name": "alura-nodejs",
+  "version": "1.0.0",
+  "description": "Curso aluta nodejs: criando sua primeira biblioteca",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^27.4.5"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
